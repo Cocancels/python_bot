@@ -8,7 +8,6 @@ First, clone the repository.
 
 <code>$ git clone https://github.com/Cocancels/python_bot</code>
 
-<br>
 You can start the server with the following command.
 
 <code>$ uvicorn main:app --reload</code>
